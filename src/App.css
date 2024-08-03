@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.Container-Main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+}
+.Heading{
+  text-align: center;
+  margin: 2rem;
+  font-size: 2rem;
+}
